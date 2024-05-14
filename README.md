@@ -3,4 +3,4 @@
 
 ### Examples
 
-- [First steps](https://github.com/ricardovolert/Study-Codes-in-CSS/first-steps)
+- [First steps](https://github.com/ricardovolert/Study-Codes-in-CSS/tree/main/first-steps)
